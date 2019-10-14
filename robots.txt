@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://peighafief.supercaizehua.com/sitemap.xml
